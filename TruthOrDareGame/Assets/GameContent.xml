@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Truth>Do you fancy anyone in this room?</Truth>
+  <Truth>Are you a virgin?</Truth>
+  <Dare>Kiss {NameOfPlayerHere} for 5 seconds!</Dare>
+  <Dare>Trade clothes with {NameOfPlayerHere} and only trade back once the game is finished!</Dare>
+  <Forfeit>Sniff {NameOfPlayerHere}'s shoe!</Forfeit>
+  <Forfeit>Sing Barbie Girl by Aqua!</Forfeit>
+</Document>
